@@ -3,3 +3,12 @@
   text-align: center;
   color: white;
 }
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+.title {
+    font-family: sans-serif;
+}
