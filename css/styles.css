@@ -25,12 +25,19 @@ body {
     background-image: url("../confectionary.png");
 }
 
-.logo {
-    height: 100px;
-    width: 100px;
-    display: inline;
-}
 
 h1 {
     display: inline-block;
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+.tweddit {
+    
+    width: 35%;
+    height: 35%;
+    
 }
